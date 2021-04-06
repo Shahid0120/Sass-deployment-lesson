@@ -1,0 +1,35 @@
+p {
+  color: pink;
+}
+
+body {
+  color: red;
+}
+
+body {
+  font-size: 40px;
+}
+
+section {
+  background-color: section-bkgnd-color;
+}
+
+section h1 {
+  font-size: 60px;
+  color: white;
+}
+
+section h1 :hover {
+  color: section-bkgnd-color;
+  cursor: pointer;
+}
+
+section p {
+  font-style: italic;
+}
+
+section span {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
